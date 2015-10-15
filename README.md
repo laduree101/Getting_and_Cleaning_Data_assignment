@@ -18,7 +18,7 @@ features.txt         - measurement names (headers/column names)
 
 actitivy_labels.txt  - decoder for the actvity index & what the activity was
 
-Desccription of script:
+Description of script:
 
 •	The text files are read in.
 
