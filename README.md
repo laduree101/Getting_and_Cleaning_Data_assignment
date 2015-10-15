@@ -19,6 +19,7 @@ features.txt         - measurement names (headers/column names)
 actitivy_labels.txt  - decoder for the actvity index & what the activity was
 
 Desccription of script:
+
 •	The text files are read in.
 
 •	The 2 subject ID files are concatenated together.  The 2 measurement data files are concatenated together.  The 2 activity index files are concatenated together.
@@ -38,4 +39,5 @@ Desccription of script:
 •	Write the output file, tidy_data.txt
 
 Final output:
+
 tidy_data.txt - a file which contains the final tidy dataset
