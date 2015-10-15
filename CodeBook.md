@@ -1,5 +1,7 @@
 Code Book
+
 Variables in the tidy_data.txt
+
 Subject		- the subject ID (1-30)
 activity_Index    - activity index (1-6)
 activity_Name   -  the name of the activity  while measurement occurred
