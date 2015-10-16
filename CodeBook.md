@@ -175,12 +175,20 @@ angle(tBodyGyroJerkMean, gravityMean)
 angle(X, gravityMean)
 
 angle(Y, gravityMean)
+
 angle(Z, gravityMean)
+
 tBodyAcc-mean()-X
+
 tBodyAcc-mean()-Y
+
 tBodyAcc-mean()-Z
+
 tGravityAcc-mean()-X
+
 tGravityAcc-mean()-Y
+
 tGravityAcc-mean()-Z
+
 tGravityAcc-std()-X
 
